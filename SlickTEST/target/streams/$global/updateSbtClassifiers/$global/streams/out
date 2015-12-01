@@ -703,9 +703,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 2748ms :: artifacts dl 136ms
-[debug] 	report for default#slicktest$sbt_2.11;1.0 default produced in C:\Users\sacha\Desktop\SlickTEST\target\resolution-cache\reports\default-slicktest$sbt_2.11-default.xml
-[debug] 	resolve done (2748ms resolve - 136ms download)
+[debug] :: resolution report :: resolve 799ms :: artifacts dl 40ms
+[debug] 	report for default#slicktest$sbt_2.11;1.0 default produced in C:\GIT Repos\ScalaSlickTest\SlickTEST\target\resolution-cache\reports\default-slicktest$sbt_2.11-default.xml
+[debug] 	resolve done (799ms resolve - 40ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#slicktest$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1069,6 +1069,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 634ms :: artifacts dl 251ms
-[debug] 	report for default#slicktest$sources_2.11;1.0 default produced in C:\Users\sacha\Desktop\SlickTEST\target\resolution-cache\reports\default-slicktest$sources_2.11-default.xml
-[debug] 	resolve done (634ms resolve - 251ms download)
+[debug] :: resolution report :: resolve 475ms :: artifacts dl 52ms
+[debug] 	report for default#slicktest$sources_2.11;1.0 default produced in C:\GIT Repos\ScalaSlickTest\SlickTEST\target\resolution-cache\reports\default-slicktest$sources_2.11-default.xml
+[debug] 	resolve done (475ms resolve - 52ms download)

@@ -4,7 +4,7 @@
 		module="slicktest$sources_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20151201174031"
+		publication="20151201180237"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>

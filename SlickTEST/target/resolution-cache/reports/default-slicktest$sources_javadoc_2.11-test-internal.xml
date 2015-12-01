@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="test-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20151201174033"/>
+		date="20151201180238"/>
 	<dependencies>
 		<module organisation="org.scala-lang.modules" name="scala-async_2.11">
 			<revision name="0.9.6-RC2" status="release" pubdate="20151009074522" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://github.com/scala/async" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="7">
